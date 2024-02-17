@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Thayuana
+- ## 👋 Hi, I’m @Thayuana
+- ## Bem-vindo(a) ao perfil 😁
 - 📚cursando Analise e desenvolvimento de sistemas 
 - 📫 contato:
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=Thayuana)](Thayuana)
