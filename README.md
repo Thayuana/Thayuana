@@ -16,6 +16,10 @@
    <a href="https://github.com/Thayuana">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thayuana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=README.md+✨+special+✨!;" />
+</h1>
      
 Thayuana/Thayuana is a ✨ special ✨ repository `README.md` 
 
